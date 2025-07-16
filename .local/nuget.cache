@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e9BqnkdV5OA=",
+  "dgSpecHash": "d6no7sVmJAk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\diegt\\Documents\\UiPath\\uipathops\\uipathops\\.local\\",
+  "projectFilePath": "C:\\Users\\diegt\\Documents\\UiPath\\uipathops\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\diegt\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
     "C:\\Users\\diegt\\.nuget\\packages\\dynamicexpresso.core\\2.12.0\\dynamicexpresso.core.2.12.0.nupkg.sha512",

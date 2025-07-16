@@ -9062,9 +9062,9 @@
     "restore": {
       "projectUniqueName": "uipathops",
       "projectName": "uipathops",
-      "projectPath": "C:\\Users\\diegt\\Documents\\UiPath\\uipathops\\uipathops\\.local",
+      "projectPath": "C:\\Users\\diegt\\Documents\\UiPath\\uipathops\\.local",
       "packagesPath": "C:\\Users\\diegt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diegt\\Documents\\UiPath\\uipathops\\uipathops\\.local",
+      "outputPath": "C:\\Users\\diegt\\Documents\\UiPath\\uipathops\\.local",
       "UsingMicrosoftNETSdk": false,
       "restoreAuditProperties": {
         "enableAudit": "False"
